@@ -1,0 +1,30 @@
+.header {
+  background-color: #28a745;
+  text-align: center;
+  padding: 15px 0;
+  margin: 0;
+}
+
+.person-card {
+  background-color: #17a2b8;
+  margin: 12px;
+  border-radius: 0;
+}
+
+.person-card .card-header {
+  background-color: #149bb0;
+}
+
+.avatar {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.field-row {
+  padding: 8px 0;
+}
+
+.username {
+  font-size: 1.2rem;
+}
